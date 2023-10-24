@@ -1,0 +1,18 @@
+Just Enough Items
+ - we know JEI
+Mouse Tweaks
+ - customizations to left click and right click when it comes to inventory
+Controlling
+ - search bar in the controls panel
+JourneyMap
+ - it's JourneyMaps
+Waystones
+ - the teleport waystones
+Enchantment Descriptions
+ - says what it does
+Quark
+ - Bunch of small things to improve the base game
+AutoRegLib
+ - Required by Quark (API)
+Quark Oddities
+ - addons to Quark
