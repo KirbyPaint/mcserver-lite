@@ -1947,7 +1947,7 @@
 	"Totem Of Holding" = true
 	Backpack = true
 	Crate = true
-	"Matrix Enchanting" = true
+	"Matrix Enchanting" = false
 	Magnets = true
 	Pipes = true
 
@@ -1994,7 +1994,7 @@
 		#Set to false to disable the ability to create Enchanted Books
 		"Allow Books" = true
 		#If you set this to false, the vanilla Enchanting Table will no longer automatically convert to the Matrix Enchanting table. You'll have to add a recipe for the Matrix Enchanting Table to make use of this.
-		"Automatically Convert" = true
+		"Automatically Convert" = false
 		#The higher this is, the better enchantments you'll get on books
 		"Book Enchantability" = 12
 		#An array of influences each candle should apply. This list must be 16 elements long, and is in order of wool colors.
