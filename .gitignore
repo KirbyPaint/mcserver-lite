@@ -17,3 +17,4 @@ whitelist.json
 minecraft_server.1.16.5.jar
 backup*
 *.sh
+*.ini
